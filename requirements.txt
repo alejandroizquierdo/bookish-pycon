@@ -1,1 +1,11 @@
-pytest==5.2.0
+requests
+
+# Development
+pdbpp
+pytest
+
+# Code and style
+flake8
+flake8-bugbear
+pep8-naming
+black
